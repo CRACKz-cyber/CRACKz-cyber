@@ -2,7 +2,7 @@ Hi 👋
 I'm CRA_CKz, I code and play games!
 
 Some facts about me:
-- Currently working on Perito addon
+- Currently working on nothing
 - Currently learning Java and C++
 - Contact me using my discord: CRA_CKz#4017
 
