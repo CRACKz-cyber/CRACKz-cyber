@@ -4,7 +4,7 @@ I'm CRA_CKz, I code and play games!
 Some facts about me:
 - Currently working on nothing
 - Currently learning Java and C++
-- Contact me using my discord: CRA_CKz#4017
+- Contact me using my discord: Inactive#2643
 
 <p align=center>
   <div align=center>
